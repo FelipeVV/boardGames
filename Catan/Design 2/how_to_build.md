@@ -47,5 +47,3 @@
 1. Go to your local laser cutting place. Most colleges and universities have one and offer discounts for students.
 2. Download `catan_complete_board.ai` and laser cut it.
 3. Print the pdfs in high quality material.
-
-[OP](https://www.instructables.com/id/Laser-Cut-Settlers-of-Catan-Board/)
